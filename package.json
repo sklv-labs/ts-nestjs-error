@@ -1,6 +1,6 @@
 {
     "name": "@sklv-labs/ts-nestjs-error",
-    "version": "0.1.0",
+    "version": "0.1.1",
     "description": "NestJS custom error",
     "author": "sklv-labs",
     "license": "MIT",
